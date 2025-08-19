@@ -21,39 +21,5 @@ Once approved, merge the branch into the main branch. Deploy the updated code to
 7. Cleanup & Repeat
 Delete feature branches if necessary and repeat the process for new features or fixes, maintaining a clean project history.
 
-Workflow Chart (Description)
-Here's a simple textual visualization of the process:
-
-CopyRun
-[Start]
-   |
-   v
-[Plan & Setup]
-   |
-   v
-[Create Feature Branch]
-   |
-   v
-[Develop & Commit]
-   |
-   v
-[Push Branch to GitHub]
-   |
-   v
-[Open Pull Request]
-   |
-   v
-[Review & Approve]
-   |
-   v
-[Merge into Main]
-   |
-   v
-[Deploy & Finish]
-   |
-   v
-[Repeat for Next Feature]
-(Add explain: This flowchart guides the development cycle from planning to deployment)
-
 Summary
 This workflow ensures organized, collaborative, and efficient project development. Using branches allows multiple features to be developed simultaneously without conflicts, and pull requests facilitate code review and quality control before merging changes into the main project.
